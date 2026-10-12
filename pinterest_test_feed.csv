@@ -1,0 +1,3 @@
+id,title,description,link,image_link,price,availability,condition,brand
+TEST-SKU-001,Test Cotton Shirt,Fictional product for authorized API testing,https://example.com/products/test-shirt,https://placehold.co/600x600/png,19.99 USD,in stock,new,Test Brand
+TEST-SKU-002,Test Canvas Bag,Fictional product for authorized API testing,https://example.com/products/test-bag,https://placehold.co/600x600/png,24.99 USD,in stock,new,Test Brand
